@@ -1,5 +1,8 @@
 # thailand-geojson-topojson
-This topic focus on creating geojson/topojson data to use with mapping lib such as D3.js
+This topic focus on creating geojson/topojson data to use with mapping lib such as D3.js</br>
+based on [D3 - Thailand Map](http://bl.ocks.org/adkdev/fe15a54ad3748c72e059475e3f43d462)</br>
+I am looking for Thailand map whit district, so I do below steps.
+
 ## Prepare json data
 I download shape file from https://data.humdata.org/dataset/thailand-administrative-boundaries
 
